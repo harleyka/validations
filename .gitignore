@@ -1,0 +1,8 @@
+.idea
+.cursor
+.vscode
+**/node_modules
+**/.nuxt
+**/.output
+**/.env
+**/.nuxt/dist

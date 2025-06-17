@@ -1,0 +1,6 @@
+@import "@nuxt/ui";
+@import "tailwindcss";
+
+html, body, #__nuxt, #__layout {
+    height: 100vh !important;
+}
